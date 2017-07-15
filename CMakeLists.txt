@@ -13,6 +13,7 @@ HunterGate(
 	LOCAL
 )
 
+#set(CMAKE_MAKE_PROGRAM "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" CACHE INTERNAL "")
 
 project(ethminer)
 set(PROJECT_VERSION 0.11.0.dev0)
