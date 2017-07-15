@@ -1,3 +1,6 @@
+# keraj37: Personal builds (feel free to use though)
+[Win32/OpenCL_only](releases/win32/opencl_only)
+
 # ethminer
 
 The ethminer is an Ethereum GPU mining worker. It origins in [cpp-ethereum]
