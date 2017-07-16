@@ -3,4 +3,4 @@ setx GPU_MAX_HEAP_SIZE 100
 setx GPU_USE_SYNC_OBJECTS 1
 setx GPU_MAX_ALLOC_PERCENT 100
 setx GPU_SINGLE_ALLOC_PERCENT 100
-./ethminer.exe --farm-recheck 200 -G -S eu2.ethermine.org:4444 -FS eu2.ethermine.org:4444 -O 0x2c3cc939d86643ac88686cdea0b1548f61f40a46.ANOSLAB
+./ethminer.exe --farm-recheck 200 -U -S eu2.ethermine.org:4444 -FS eu2.ethermine.org:4444 -O 0x2c3cc939d86643ac88686cdea0b1548f61f40a46.ANOSLAB
