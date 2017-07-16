@@ -1,0 +1,8 @@
+﻿  Checking Build System
+  CMake does not need to re-run because C:/cpp-ethereum/build/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/cpp-ethereum/build/libdevcore/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/cpp-ethereum/build/libethash/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/cpp-ethereum/build/libethash-cuda/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/cpp-ethereum/build/libstratum/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/cpp-ethereum/build/libethcore/CMakeFiles/generate.stamp is up-to-date.
+  CMake does not need to re-run because C:/cpp-ethereum/build/ethminer/CMakeFiles/generate.stamp is up-to-date.
