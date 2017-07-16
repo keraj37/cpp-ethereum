@@ -1,5 +1,6 @@
 # keraj37: Personal builds (feel free to use though)
 [Win32/OpenCL_only](releases/win32/opencl_only)
+
 [Win64/CUDA_And_OpenCL](releases/win64/cuda_and_opencl)
 
 # ethminer
