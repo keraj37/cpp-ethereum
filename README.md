@@ -123,15 +123,7 @@ cd cpp-ethereum/
 mkdir build
 cd build
 cmake -DBUNDLE=cudaminer ..
-<<<<<<< HEAD
-make -j8
-```
-
-You can then find the executable in the ethminer subfolder
-
-=======
 make
 ```
 
 You can then find the executable in the ethminer subfolder
->>>>>>> nr-110
